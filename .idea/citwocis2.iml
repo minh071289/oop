@@ -6,8 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/oop-main/HW1/1.1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oop-main/HW1/1.2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/oop-main/HW1/Introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oop-main/HW1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="stdlib" level="project" />
   </component>
 </module>

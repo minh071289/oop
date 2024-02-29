@@ -6,3 +6,4 @@ public class SumOfSines {
         System.out.println(s);
     }
 }
+
